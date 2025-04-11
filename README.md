@@ -18,15 +18,19 @@ Icon pada tab browser berhasil muncul
 ### Melakukan modifikasi kode 
 
 Kode Layout.tsx
+
 ![](https://github.com/03Yuma/Pertemuan7/blob/main/gambar/Cuplikan%20layar%202025-04-11%20201305.png)
 
 Kode app
+
 ![](https://github.com/03Yuma/Pertemuan7/blob/main/gambar/Cuplikan%20layar%202025-04-11%20201406.png)
 
 Kode porjects
+
 ![](https://github.com/03Yuma/Pertemuan7/blob/main/gambar/Cuplikan%20layar%202025-04-11%20201344.png)
 
 Kode esai
+
 ![](https://github.com/03Yuma/Pertemuan7/blob/main/gambar/Cuplikan%20layar%202025-04-11%20201353.png)
 
 ### Hasil
@@ -35,6 +39,7 @@ Kode esai
 Dari gambar tersebut dapat dilihat bahwa hasil dari inspect kurang sesuai dengan gambar contoh pada jobsheet
 
 ### Identifikasi
+
 ![](https://github.com/03Yuma/Pertemuan7/blob/main/gambar/Cuplikan%20layar%202025-04-11%20203545.png)
 
 Melakukan comment pada kode modifkasi yang telah dilakukan untuk jobsheet sebelumnnya dan memberikan hasil inspect seperti pada gambar berikut
