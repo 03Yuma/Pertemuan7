@@ -9,6 +9,7 @@ https://github.com/03Yuma/website-pribadi.git
 
 ### Menambahkan icon pada tab browser
 Memindahkan favicon pada public dan menghapus favicon pada src/app
+
 ![](https://github.com/03Yuma/Pertemuan7/blob/main/gambar/Cuplikan%20layar%202025-04-08%20155346.png)
 
 Icon pada tab browser berhasil muncul
