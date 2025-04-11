@@ -36,7 +36,7 @@ Kode esai
 ### Hasil
 ![](https://github.com/03Yuma/Pertemuan7/blob/main/gambar/Cuplikan%20layar%202025-04-11%20202832.png)
 
-Dari gambar tersebut dapat dilihat bahwa hasil dari inspect kurang sesuai dengan gambar contoh pada jobsheet
+Dari gambar tersebut dapat dilihat bahwa hasil dari inspect kurang sesuai dengan jobsheet
 
 ### Identifikasi
 
